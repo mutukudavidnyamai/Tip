@@ -1,0 +1,15 @@
+body {
+  background-color: #063c55 !important;
+  height: 100%;
+  margin: 0;
+  padding: 5;
+
+}
+.signup_btn {
+  width: 90%;
+
+  background: #1ace0a !important;
+  color: rgb(15, 15, 15) !important;
+  border-radius: 20px;
+  font-weight: 500;
+}
