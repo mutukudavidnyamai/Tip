@@ -5,9 +5,10 @@
 
 body {
   background-color: #063c55 !important;
-  height: 100%;
-  margin: 0;
+  height: 100vh; height: calc(var(--vh, 1vh) * 100);
   padding: 5;
+  bottom: 0;
+
 
 }
 
